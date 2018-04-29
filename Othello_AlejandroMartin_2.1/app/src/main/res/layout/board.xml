@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tableroLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <ImageButton
+        android:id="@+id/o2"
+        style="@style/OthelloButton"
+        android:layout_centerHorizontal="true" />
+    <ImageButton
+        android:id="@+id/o3"
+        style="@style/OthelloButton"
+        android:layout_toRightOf="@id/o2" />
+    <ImageButton
+        android:id="@+id/o1"
+        style="@style/OthelloButton"
+        android:layout_toLeftOf="@id/o2" />
+    <ImageButton
+        android:id="@+id/o5"
+        style="@style/OthelloButton"
+        android:layout_below="@id/o2"
+        android:layout_centerHorizontal="true" />
+    <ImageButton
+        android:id="@+id/o6"
+        style="@style/OthelloButton"
+        android:layout_below="@id/o2"
+        android:layout_toRightOf="@id/o5" />
+    <ImageButton
+        android:id="@+id/o4"
+        style="@style/OthelloButton"
+        android:layout_below="@id/o2"
+        android:layout_toLeftOf="@id/o5" />
+
+    <ImageButton
+        android:id="@+id/o8"
+        style="@style/OthelloButton"
+        android:layout_below="@id/o5"
+        android:layout_centerHorizontal="true" />
+    <ImageButton
+        android:id="@+id/o9"
+        style="@style/OthelloButton"
+        android:layout_below="@id/o5"
+        android:layout_toRightOf="@id/o8" />
+    <ImageButton
+        android:id="@+id/o7"
+        style="@style/OthelloButton"
+        android:layout_below="@id/o5"
+        android:layout_toLeftOf="@id/o8" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Othello_AM</string>
+    <string name="title">OTHELLO</string>
+    <string name="round_already_finished">Final de Ronda</string>
+    <string name="invalid_movement">Movimiento Invalido</string>
+    <string name="game_over">Final de la Partida</string>
+    <string name="round_restarted">Partida Reiniciada</string>
+    <string name="new_round">Nueva Partida</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="turn">Turno</string>
+    <string name="winner">Winner</string>
+    <string name="draw">Empate</string>
+    <string name="restart">Play again?</string>
+    <string name="list_preference_summary">Choose the size of the board</string>
+    <string name="list_preference_title">Board size</string>
+    <string name="checkbox_preference_summary">Click if you feel like listening to music</string>
+    <string name="checkbox_preference_title">Music</string>
+    <string name="settings">Settings</string>
+</resources>

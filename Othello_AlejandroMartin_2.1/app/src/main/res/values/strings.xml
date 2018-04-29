@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Othello_AlejandroMartin</string>
+    <string name="title">Othello</string>
+    <string name="round_already_finished">Final de Ronda</string>
+    <string name="invalid_movement">Movimiento Invalido</string>
+    <string name="game_over">Final de la Partida</string>
+    <string name="round_restarted">Final de la Partida</string>
+
+</resources>

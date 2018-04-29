@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Ajustes del juego">
+        <!--<ListPreference
+            android:defaultValue="3"
+            android:entries="@array/levelsArray"
+            android:entryValues="@array/levelsValues"
+            android:key="boardsize"
+            android:summary="Choose the size of the board"
+            android:title="Board size" />-->
+        <CheckBoxPreference
+            android:key="music"
+            android:summary="Click if you feel like listening to music"
+            android:title="Music" />
+        <EditTextPreference
+            android:key="username"
+            android:summary="@string/username_pref_desc"
+            android:title="@string/username_pref_tit" />
+
+
+    </PreferenceCategory>
+</PreferenceScreen>

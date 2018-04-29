@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Othello_AM</string>
+    <string name="title">OTHELLO</string>
+    <string name="round_already_finished">Final de Ronda</string>
+    <string name="invalid_movement">Movimiento Invalido</string>
+    <string name="game_over">Final de la Partida</string>
+    <string name="round_restarted">Partida Reiniciada</string>
+    <string name="new_round">Nueva Partida</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="turn">Turno</string>
+    <string name="winner">Winner</string>
+    <string name="draw">Empate</string>
+    <string name="restart">Play again?</string>
+    <string name="list_preference_summary">Choose the size of the board</string>
+    <string name="list_preference_title">Board size</string>
+    <string name="checkbox_preference_summary">Click if you feel like listening to music</string>
+    <string name="checkbox_preference_title">Music</string>
+    <string name="settings">Settings</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Clave Secreta</string>
+    <string name="new_user">Nuevo Usuario</string>
+    <string name="enter">Entrar</string>
+    <string name="exit">Salir</string>
+    <string name="repository_opening_error">Error al abrir el Repositorio</string>
+    <string name="error_reading_rounds">Error leyendo las rondas</string>
+    <string name="error_updating_UI">Error actualizando UI</string>
+    <string name="error_updating_round">Error actualizando la ronda</string>
+    <string name="error">Error</string>
+    <string name="login_fail">Login Fallido</string>
+    <string name="try_again">Intentelo de nuevo</string>
+    <string name="logout">Logout</string>
+    <string name="username_pref_desc">Change your username</string>
+    <string name="username_pref_tit">Username</string>
+</resources>
